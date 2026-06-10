@@ -4,17 +4,20 @@
 Hello! I'm Lue Lu, a data analyst with analytical and results-driven professional holding a Bachelor’s degree in Computer Science and over 6 years of experience across Data Analysis and Application Support. Proven track record in identifying manufacturing process trends, resolving complex technical challenges, and delivering actionable insights to stakeholders. Adept at bridging the gap between technical data structures and business-critical objectives to drive operational efficiency.
 
 
-<!--Mention your top/relevant skills here - core and soft skills
-## WHAT I DO
+<!--Mention your top/relevant skills here - core and soft skills -->
+## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**- ✅ Data Analysis:** 
+Data Interpretation, Trend Analysis, SQL, Database Management
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Visualization:**
+Creating Insightful Reports, Stakeholder Presentation
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
--->
+**- ✅ Support & Systems:** 
+Technical Troubleshooting, Application Support, Requirements Gathering
+
+**- ✅ End User Training:**
+Prepare training materials and give system using training to end users.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
