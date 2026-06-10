@@ -29,11 +29,11 @@ I offer comprehensive training programs in data analysis, visualization, and dat
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:nawlulupaw@gmail.com">nawlulupaw@gmail.com</a></td>
+      <td><!-- <a href="mailto:nawlulupaw@gmail.com">nawlulupaw@gmail.com</a> --></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+66) 81 476 0960</td>
+      <td><!--(+66) 81 476 0960 --></td>
     </tr>
     <tr>
       <td>📍</td>
